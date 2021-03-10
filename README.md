@@ -1,2 +1,4 @@
 # Multi-Layer-Control-Robot-Architecture
-LEGO MINDSTORMS EV3 robot programmed with obstacle avoidance and LÉVY flight search.
+
+* Documentation for the Closed Loop Control system and obstacle avoidance 
+* Documentation for Multi Layer Control Subsumption architecture and LÉVY flight 
